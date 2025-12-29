@@ -1,16 +1,45 @@
-## Hi there 👋
+## Hi, I'm Ayushman 👋
 
-<!--
-**ayushman46/ayushman46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML-focused Computer Science undergraduate with hands-on experience in machine learning, computer vision, and generative AI systems.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+- Python
+- SQL (MySQL, PostgreSQL)
+- JavaScript, TypeScript
+- C
+
+**Machine Learning & Data**
+- scikit-learn
+- TensorFlow
+- PyTorch
+- Pandas, NumPy
+- Matplotlib
+- NLP
+
+**Computer Vision**
+- CNNs
+- YOLOv8
+- OpenCV
+- Image Classification
+- Object Detection
+
+**Generative AI & LLMs**
+- LangChain
+- Hugging Face Transformers
+- RAG
+- Azure OpenAI
+- Model Context Protocol (MCP)
+
+**Backend & Deployment**
+- FastAPI
+- Streamlit
+- Docker
+- Git
+- CI/CD Pipelines
+
+### Currently Exploring
+- Production ML systems
+- LLM-powered applications
+- 3D vision and human pose estimation
